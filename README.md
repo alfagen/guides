@@ -5,7 +5,7 @@
 
 * rbenv - https://github.com/rbenv/rbenv
 * nvm - https://github.com/creationix/nvm
-* dotenv - https://github.com/motdotla/dotenv
+* direnv - https://direnv.net
 
 # Правила работы с ветками в репозитории:
 
