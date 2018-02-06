@@ -8,7 +8,7 @@
 
 # Правила работы с ветками в репозитории:
 
-* A successful Git branching model - nvie.com/posts/a-successful-git-branching-model/
+* A successful Git branching model - http://nvie.com/posts/a-successful-git-branching-model/
 
 
 # Замечания по ратое с кодом
