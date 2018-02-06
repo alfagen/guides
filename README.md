@@ -9,3 +9,18 @@
 # Правила работы с ветками в репозитории:
 
 * A successful Git branching model - nvie.com/posts/a-successful-git-branching-model/
+
+
+# Замечания по ратое с кодом
+
+## Строго:
+
+* Не использовать относительные пути в импортах `import loadMessages from '../server/intl/loadMessages'`
+* Стараться НЕ привязывать JS к классам и идентификаторам (использовать data или спец-атрибут)
+* В package.json в dependencies лежать и dev зависимости и НЕ dev зависимости.
+
+## Желательно:
+
+*  Использовать константы для определения action-ов:
+  src/verification/actions.js:    type: 'app/cards/INITIAL',
+  src/verification/reducer.js:    case 'app/cards/INITIAL':
