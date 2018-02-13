@@ -36,3 +36,8 @@
 # Другие гайды
 
 * hexlet - http://guides.hexlet.io
+
+
+# Работа с git-ом
+
+В message комитов указываем номер задачи из Pivotal - `[(Finishes|Fixes|Delivers) #TRACKER_STORY_ID]`
