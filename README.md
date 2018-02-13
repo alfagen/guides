@@ -25,3 +25,9 @@
 *  Использовать константы для определения action-ов:
   src/verification/actions.js:    type: 'app/cards/INITIAL',
   src/verification/reducer.js:    case 'app/cards/INITIAL':
+
+
+# Развертывание
+
+* Отличное введение в docker - http://guides.hexlet.io/docker/
+* Хорошое введение в capistrano - http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html
