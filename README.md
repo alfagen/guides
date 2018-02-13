@@ -3,9 +3,9 @@
 
 # Инструменты окружения разработчика
 
-* rbenv - https://github.com/rbenv/rbenv
-* nvm - https://github.com/creationix/nvm
-* direnv - https://direnv.net
+* rbenv - https://github.com/rbenv/rbenv (устанавливать только локально в домашний каталог)
+* nvm - https://github.com/creationix/nvm (устанавливать только локально в домашний каталог)
+* direnv - https://direnv.net (можно устанавливать системно через apt-ge)
 
 # Правила работы с ветками в репозитории:
 
