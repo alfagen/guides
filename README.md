@@ -31,3 +31,8 @@
 
 * Отличное введение в docker - http://guides.hexlet.io/docker/
 * Хорошое введение в capistrano - http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html
+
+
+# Другие гайды
+
+* hexlet - http://guides.hexlet.io
