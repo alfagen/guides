@@ -84,11 +84,15 @@ $ sudo apt-get install build-essential tcl
 
 ## Запуск бекенда
 
-Нужно скопировать конфиг
+Нужно скопировать конфиг и поменять имя базы данных
 
 ```sh
 $ cd change
 $ cp config/example.json config/default.json
+```
+```diff
+-    "database": "change_develop"
++    "database": "username"
 ```
 
 Запускаем redis в отдельной консоли
