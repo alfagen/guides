@@ -41,3 +41,7 @@
 # Работа с git-ом
 
 В message комитов указываем номер задачи из Pivotal - `[(Finishes|Fixes|Delivers) #TRACKER_STORY_ID]`
+
+# Прочее
+
+* https://12factor.net/ru/
