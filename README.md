@@ -47,3 +47,7 @@
 # Прочее
 
 * https://12factor.net/ru/
+
+# Целевая ОС на серверах
+
+* Ubuntu 16.04.3 LTS minimal
