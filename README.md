@@ -1,7 +1,7 @@
 # alfa guides
 Правила, инструкции и нотации по разработке
 
-# Структура директорий проекта
+# Структура директорий проектов
 
 В любом проекте есть константа, которая указывает на корневой каталог (`ROOT_PATH`).
 
@@ -67,12 +67,13 @@
 
 * hexlet - http://guides.hexlet.io
 
-
 # Работа с git-ом
 
-* Курс - https://ru.hexlet.io/courses/intro_to_git
+Придерживаемся классического git flow. 
 
-В message комитов указываем номер задачи из Pivotal - `[(Finishes|Fixes|Delivers) #TRACKER_STORY_ID]`
+* git successful branching model - http://nvie.com/posts/a-successful-git-branching-model/
+* В message комитов указываем номер задачи из Pivotal - `[(Finishes|Fixes|Delivers) #TRACKER_STORY_ID]`
+* Курс - https://ru.hexlet.io/courses/intro_to_git
 
 # Прочее
 
